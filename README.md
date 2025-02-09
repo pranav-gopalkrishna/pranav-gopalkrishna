@@ -1,9 +1,13 @@
 # Hello there, fellow human
 I am Pranav Gopalkrishna, an avid programmer, reader and writer, having done a number of projects (research-based and/or application-based) and writings, which range from fiction to poetry to technical essays. Apart from this, I have also composed music (and may do so again in the future), and I occasionally post videos (videos about anything I like, touching areas such as music, Minecraft timelapses, project presentations and essays read aloud).
 
-You may be wondering my GitHub site is so empty.
+---
 
-Well, that's because this is only a portal, a gateway to my main profile, [@pranigopu](https://github.com/pranigopu).
+_You may be wondering my GitHub site is so empty. Well, that's because this is only a portal_...
+
+... _a gateway to my main profile, [@pranigopu](https://github.com/pranigopu)._
+
+---
 
 Here are my main links:
 
