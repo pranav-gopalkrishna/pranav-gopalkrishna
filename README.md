@@ -3,7 +3,7 @@ I am Pranav Gopalkrishna, an avid programmer, reader and writer, having done a n
 
 ---
 
-_You may be wondering my GitHub site is so empty :thinking
+_You may be wondering my GitHub site is so empty :thinking:
 
 Well, that's because this is only a portal_...
 
