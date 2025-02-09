@@ -3,9 +3,9 @@ I am Pranav Gopalkrishna, an avid programmer, reader and writer, having done a n
 
 ---
 
-_You may be wondering my GitHub site is so empty :thinking:
+_You may be wondering my GitHub site is so empty_ :thinking:
 
-Well, that's because this is only a portal_...
+_Well, that's because this is only a portal_...
 
 ... _a gateway to my main profile, [@pranigopu](https://github.com/pranigopu)._
 
